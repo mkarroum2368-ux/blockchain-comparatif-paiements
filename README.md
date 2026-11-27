@@ -13,7 +13,12 @@ Pour les paiements transfrontaliers, quelle architecture répond le mieux aux be
 2. Description des trois architectures, avec des exemples (stablecoins sur chaîne publique, Project Agorá et mBridge pour le permissionné, banques correspondantes pour la base de données classique).
 3. Tableau comparatif sur huit critères : gouvernance, confiance, confidentialité, performance, coût, immuabilité, conformité, maturité réglementaire.
 4. Recommandation argumentée selon le segment de paiement, puis limites.
+## Démarche
 
+1. Présentation du cas : les limites actuelles des paiements transfrontaliers (coût, vitesse, transparence) et les cibles du G20.
+2. Description des trois architectures, avec des exemples (stablecoins sur chaîne publique, Project Agorá et mBridge pour le permissionné, banques correspondantes pour la base de données classique).
+3. Tableau comparatif sur huit critères : gouvernance, confiance, confidentialité, performance, coût, immuabilité, conformité, maturité réglementaire.
+4. Recommandation argumentée selon le segment de paiement, puis limites.
 ## Résultat obtenu
 
 Il n'existe pas d'architecture unique. En résumé :

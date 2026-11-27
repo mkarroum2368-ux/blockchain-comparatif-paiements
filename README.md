@@ -9,8 +9,6 @@ Projet individuel du **TP3 « GitHub et projets blockchain »**, Master Fintech 
 
 Pour les paiements transfrontaliers, quelle architecture répond le mieux aux besoins : une **blockchain publique**, un **registre distribué permissionné** ou une **base de données classique** ?
 
-## Démarche
-
 1. Présentation du cas : les limites actuelles des paiements transfrontaliers (coût, vitesse, transparence) et les cibles du G20.
 2. Description des trois architectures, avec des exemples (stablecoins sur chaîne publique, Project Agorá et mBridge pour le permissionné, banques correspondantes pour la base de données classique).
 3. Tableau comparatif sur huit critères : gouvernance, confiance, confidentialité, performance, coût, immuabilité, conformité, maturité réglementaire.
